@@ -1,0 +1,12 @@
+P-5	
+01 - GND
+02 - Vcc
+03 - IC9 Pin 34 /RES
+04 - IC9 Pin 39 CA9
+05 - IC9 Pin 18 CB1
+06 - IC9 Pin 19 CB2
+07 - IC9 Pin 09 PA7
+08 - IC9 Pin 04 PA2
+09 - IC9 Pin 03 PA1
+10 - IC9 Pin 02 PA0
+  		
